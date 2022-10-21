@@ -16,6 +16,10 @@ News (2022)
 ======
 (october)
 
+I am looking for students at different levels (undergraduate, graduate) to work with me (and in colaboration with other researchers) in problems involving mathematical optimization applied to energy systems.
+
+(october)
+
 I will teach the following courses:
 
 1 - Applied control for oil and gas industry
