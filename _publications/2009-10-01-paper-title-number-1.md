@@ -1,10 +1,10 @@
 ---
 title: "A semi-supervised convolutional neural network based on subspace representation for image classification"
 collection: publications
-permalink: http://dx.doi.org/10.1007/s11063-020-10244-5
+permalink: https://doi.org/10.1186/s13640-020-00507-5
 excerpt: ''
 date: 2020
-venue: 'Neural Process Letters'
+venue: 'EURASIP Journal on Image and Video Processing'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Gatto, B.B., Souza, L.S., dos Santos, E.M. et al. A semi-supervised convolutional neural network based on subspace representation for image classification. J Image Video Proc. 2020, 22 (2020). https://doi.org/10.1186/s13640-020-00507-5'
 ---
