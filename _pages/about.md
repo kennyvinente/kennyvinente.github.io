@@ -15,15 +15,19 @@ Currently, Prof. Kenny Vinente works at Federal University of Amazonas - Brazil,
 News (2022)
 ======
 (october)
+
 I will teach the following courses:
+
 1 - Applied control for oil and gas industry
 2 - Applied operations research for oil and gas industry
 
 (october)
+
 Our paper "Accelerated Dual Dynamic Integer Programming Applied to Short-Term Power Generation Scheduling" is published in the International Journal of Electrical Power and Energy Systems. [Link to access](https://doi.org/10.1016/j.ijepes.2022.108689). This work was produced in colaboration with me, Bruno Colonetti (Federal University of Santa Catarina), Prof. Erlon Finardi (Federal University of Santa Catarina), and Prof. Victor Zavala (University of Wisconsin-Madinson).  
 
 (february)
-I will participate at 8o workshop of mathematical solutions for industry that will be hosted by [CEMEAI](https://www.linkedin.com/company/cemeai/).
+
+I will participate at 8th workshop of mathematical solutions for industry that will be hosted by [CEMEAI](https://www.linkedin.com/company/cemeai/).
 
 <!-- Getting started
 ======
