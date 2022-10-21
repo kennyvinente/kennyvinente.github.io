@@ -3,7 +3,7 @@ title: "A semi-supervised convolutional neural network based on subspace represe
 collection: publications
 permalink: https://doi.org/10.1186/s13640-020-00507-5
 excerpt: 
-date: '01-01-2020'
+date: '2020-01-01'
 venue: 'EURASIP Journal on Image and Video Processing'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Gatto, B.B., Souza, L.S., dos Santos, E.M. et al. A semi-supervised convolutional neural network based on subspace representation for image classification. J Image Video Proc. 2020, 22 (2020). https://doi.org/10.1186/s13640-020-00507-5'
