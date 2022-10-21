@@ -2,7 +2,7 @@
 title: "A semi-supervised convolutional neural network based on subspace representation for image classification"
 collection: publications
 permalink: http://dx.doi.org/10.1007/s11063-020-10244-5
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020
 venue: 'Neural Process Letters'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
