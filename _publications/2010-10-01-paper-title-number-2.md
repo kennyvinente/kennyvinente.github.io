@@ -3,7 +3,7 @@ title: "Fukunaga-Koontz Convolutional Network with Applications on Character Cla
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2020
+date: 2020-10-01
 venue: 'Neural Processing Letters'
 paperurl: 'http://academicpages.github.io/files/paper2020-02.pdf'
 citation: 'Gatto, B.B., dos Santos, E.M., Fukui, K. et al. Fukunaga–Koontz Convolutional Network with Applications on Character Classification. Neural Process Lett 52, 443–465 (2020). https://doi.org/10.1007/s11063-020-10244-5.'
