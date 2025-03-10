@@ -2,22 +2,26 @@
 title: "Undergraduate"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-teaching-1
+permalink: /teaching/2025-teaching-1
 venue: "Federal University of Amazonas, Department of Oil and Gas"
-date: 2022-01-01
+date: 2025-01-01
 location: "Manaus, Brazil"
 ---
 
 Currently, I am teaching the following courses at undergraduates courses (Oil and Gas Engineering).
 
 Applied Control to Oil and Gas Industry
+
+Control and Automation Laboratory
 ======
 
-Applied Operations Research for Oil and Gas Industry
-======
 
+======
 
 Previously taught courses
+
+Applied Operations Research for Oil and Gas Industry (Oil and Gas Engineering)
+---
 
 Process Control and Simulation (Chemical, Oil and Gas Engineering)
 ---

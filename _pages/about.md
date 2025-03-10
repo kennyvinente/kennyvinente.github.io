@@ -10,13 +10,30 @@ redirect_from:
 
 This is the personal website of Prof. Kenny Vinente, Ph.D. You can check his publications, talks, current projects, teaching and more infos. Feel free to contact him if you are interest in colaboration or work.
 
-Currently, Prof. Kenny Vinente works at Federal University of Amazonas - Brazil, at Faculty of Engineering. His main interest of colaboration is in mathematical optimization and applications in power systems and operations research.
+Currently, Prof. Kenny Vinente works at Federal University of Amazonas - Brazil, at Faculty of Engineering. His main interest of colaboration is in mathematical optimization and applications in power systems and operations research. Currently, i'm working also in artificial intelligence, focused in machine, deep and reinforcement learning, large language models and applications in industry.
+
+News (2025)
+======
+(march)
+
+I am reactivating this website.
+
+I am looking for students at different levels (undergraduate, graduate) to work with me (and in colaboration with other researchers) in problems involving mathematical optimization applied to energy systems and operations research, artificial intelligence (machine, deep and reinforcement learning, applications of large language models in industry).
+
+I will teach the following courses:
+
+1 - Applied control for oil and gas industry (undergraduate)
+
+2 - Optimization (graduate)
+
+3 - Introduction of electrical power systems (graduate; in collaboration with 2 professors)
+
+I will participate at 2025 Hydropower Scheduling Conference in Rio de Janeiro, presenting the work: "Impact of environmental constraints in hydrothermal energy planning", in colaboration with Cláudia Sagastizábal, André Diniz, Luiz Felipe Bueno and Rafael Lobato, which will occur in May 26 to 28.
+
 
 News (2022)
 ======
 (october)
-
-I am looking for students at different levels (undergraduate, graduate) to work with me (and in colaboration with other researchers) in problems involving mathematical optimization applied to energy systems and operations research.
 
 (october)
 

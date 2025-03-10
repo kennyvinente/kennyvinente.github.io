@@ -32,7 +32,11 @@ Skills
   * Power System Planning
   * Unit Commitment
   * Power Flow
-* Machine Learning
+* Artificial Intelligence
+  * Machine Learning
+  * Deep Learning
+  * Reinforcement Learning
+  * Applications of Large Language Models in Industry
 
 Publications
 ======
